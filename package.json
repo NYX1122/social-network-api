@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "dayjs": "^1.10.6",
     "express": "^4.17.1",
     "mongoose": "^6.0.4"
   },
