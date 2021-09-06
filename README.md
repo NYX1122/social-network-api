@@ -14,7 +14,7 @@ This installation process is for locally hosted clones of this repository:
 2. Open a new command line that is in the correct directory 
 3. Run `npm i `
 
-### Screenshot:
+### Walkthrough:
 ![Capture]()
 
 ## License
