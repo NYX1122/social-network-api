@@ -15,7 +15,7 @@ This installation process is for locally hosted clones of this repository:
 3. Run `npm i `
 
 ### Walkthrough:
-![Capture](https://github.com/NYX1122/social-network-api/blob/main/social-network-api-walkthrough.mp4)
+![Video](https://github.com/NYX1122/social-network-api/blob/main/social-network-api-walkthrough.mp4)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
